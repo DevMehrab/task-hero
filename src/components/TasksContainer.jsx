@@ -1,6 +1,6 @@
 import React, { useContext } from "react";
 import { Column } from "./Column";
-import { NewColumn } from "./Newcolumn";
+import { NewColumn } from "./NewColumn";
 import { TaskContext } from "./TaskProvider";
 
 export const TasksContainer = () => {
